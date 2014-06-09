@@ -1,14 +1,14 @@
 {
-  "name": "angular-toggle-switch",
-  "version": "0.3.0",
+  "name": "angular-toggle-switch2",
+  "version": "1.0.0",
   "main": [
     "angular-toggle-switch.js",
     "angular-toggle-switch.css"
   ],
-  "homepage": "http://cgarvis.github.io/angular-toggle-switch/",
+  "homepage": "https://github.com/FGRibreau/angular-toggle-switch/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cgarvis/angular-toggle-switch.git"
+    "url": "https://github.com/FGRibreau/angular-toggle-switch.git"
   },
   "devDependencies": {
     "angular": ">=1.0",
