@@ -1,4 +1,4 @@
-# angular-toggle-switch [![Build Status](https://travis-ci.org/cgarvis/angular-toggle-switch.png?branch=master)](https://travis-ci.org/cgarvis/angular-toggle-switch)
+# angular-toggle-switch2 [![Build Status](https://travis-ci.org/fgribreau/angular-toggle-switch.png?branch=master)](https://travis-ci.org/fgribreau/angular-toggle-switch)
 
 Toggle Switches for AngularJS.  Based off [Bootstrap switch](http://www.larentis.eu/switch/) by Matt Lartentis.
 
@@ -15,13 +15,9 @@ Toggle Switches for AngularJS.  Based off [Bootstrap switch](http://www.larentis
 
 ## Installation
 
-Download [angular-toggle-switch.min.js](https://raw.github.com/cgarvis/angular-toggle-switch/master/angular-toggle-switch.min.js) or install with bower.
-
 ```bash
-$ bower install angular-toggle-switch --save
+$ bower install angular-toggle-switch2 --save
 ```
-
-Load `angular-toggle-switch.min.js` then add the `toggle-switch` module to your Angular App.
 
 ```javascript
 angular.module('app', ['toggle-switch']);
